@@ -4,7 +4,7 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "test": "jest api.calculator.test",
+    "test": "jest api.calculator.test --verbose",
     "start": "node server"
   },
   "author": "",
